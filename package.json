@@ -1,0 +1,22 @@
+{
+  "name": "price_check",
+  "private": true,
+  "dependencies": {
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.2.2",
+    "node": "10.17.0",
+    "playwright": "^1.8.0",
+    "turbolinks": "^5.2.0",
+    "webpack": "^4.0.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  },
+  "description": "package manager for npm assets",
+  "main": "index.js",
+  "author": "KelOkekpe <joseph@callrail.com>",
+  "license": "MIT"
+}

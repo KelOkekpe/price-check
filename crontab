@@ -1,0 +1,3 @@
+30-59/5 9     * * 1-5 /usr/local/bin/node /Users/jokekpe/Desktop/Personals/auto-stock2/update_contracts.js > /var/log/update_contracts_job.log 2>&1
+*/5     10-15 * * 1-5 /usr/local/bin/node /Users/jokekpe/Desktop/Personals/auto-stock2/update_contracts.js > /var/log/update_contracts_job.log 2>&1
+0       16    * * 1-5 /usr/local/bin/node /Users/jokekpe/Desktop/Personals/auto-stock2/update_contracts.js > /var/log/update_contracts_job.log 2>&1
